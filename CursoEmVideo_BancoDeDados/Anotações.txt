@@ -1,0 +1,19 @@
+DDL - Data Definition Languange - 
+Create Database,
+Create Table,
+Alter table,
+Drop table;
+
+DML - Data Manipulation Languange –
+Insert into,
+update,
+delete,
+truncate; 
+
+Dump copia de segurança
+
+utf8_general_ci - Português/Brasil   
+
+phpmyadmin localhost/dashboard clica no phpmyadmin 
+
+Result -  set resultado de um select
