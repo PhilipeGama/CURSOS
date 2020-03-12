@@ -1,4 +1,0 @@
-Estudo Realizado pelas Video Aulas do Canal CursoEmVideo
-Prof. Gustavo Guanaba
-inicio:02/03/2016
-termino:
